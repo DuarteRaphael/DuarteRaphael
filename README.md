@@ -1,7 +1,7 @@
 ## Olá eu sou Raphael Duarte
 <!--- 🔭 Hoje estudo  Análise e Desenv. de Sistemas
 - 🌱 Programador fullstack jr
-- 📫 rafaelsp0584@gmail.com
+- 📫 raphael-duarte@outlook.com
 - 😄 Pronouns: Ele/dele-->
   
  <div>
