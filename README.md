@@ -4,6 +4,9 @@
 - 📫 raphael-duarte@outlook.com
 - 😄 Pronouns: Ele/dele
 ##
+
+![snake gif](https://github.com/DuarteRaphael/DuarteRaphael/blob/output/github-contribution-grid-snake.gif)
+
   <!--Bloco para exibir dois cards com o status-->
  <div>
   <a href="https://github.com/DuarteRaphael">
